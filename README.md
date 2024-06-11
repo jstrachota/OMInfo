@@ -3,7 +3,7 @@ OMI === Projekt pro vytvoreni databaze IND-Ex v nejnovejsi verzi. Nasazuje se do
 !!! vzdy ZKONTROLOVAT: "Find in Files [áčďéěíňóřšťúůýž] Look in Entire Solution,  Use Regular Expressions"
 			Nechceme zadnou diakritiku, protoze jinak se texty pri nejakych prenosech urcite zmrsi...
 
-Toto reseni (solution) slouzi k podpore zivotniho cyklu soustavy aplikaci zalozenych na schematu IND-Ex		(shrnuti IND-Exu cti az dole)
+Toto reseni (solution) slouzi k podpore zivotniho cyklu soustavy aplikaci zalozenych na schematu IND-Ex		(shrnuti IND-Exu cti az dole) *****
 *******************************************************************************************************
 
 reseni obsahuje nasledujici projekty typu Oracle DB :
